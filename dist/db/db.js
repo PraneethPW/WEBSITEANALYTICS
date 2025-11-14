@@ -1,6 +1,6 @@
 import { Client } from "pg";
 const client = new Client({
-    connectionString: "postgresql://postgres:Pr@120502@localhost:5432/websiteanalytics?schema=public"
+    connectionString: "postgresql://postgres:YOURPASSWORD@localhost:5432/websiteanalytics?schema=public"
 });
 await client.connect();
 export const saveEventToDB = async (event) => {
