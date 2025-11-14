@@ -60,25 +60,6 @@ node dist/reporting/index.js # Stats API
 
 ### POST /event
 
-
-# 🖼️ Screenshots
-
-### Product Grid
-
-![Product grid view](Screenshots/productGrid.png)
-
-### Cart View
-
-![Cart view](Screenshots/cartImage.png)
-
-### Checkout Page
-
-![Checkout page](Screenshots/checkoutImage.png)
-
-
-
-
-
 ---
 
 ## 💡  Notes
