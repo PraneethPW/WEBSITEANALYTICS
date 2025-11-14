@@ -1,0 +1,1 @@
+{"version":3,"file":"eventQueue.d.ts","sourceRoot":"","sources":["../../src/queue/eventQueue.ts"],"names":[],"mappings":"AAAA,OAAO,KAAK,EAAE,cAAc,EAAE,MAAM,mBAAmB,CAAC;AAIxD,eAAO,MAAM,OAAO,GAAI,OAAQ,cAAc,SAE7C,CAAC;AAEF,eAAO,MAAM,OAAO,QAAO,cAAc,GAAG,SAE3C,CAAA;AAED,eAAO,MAAM,OAAO,QAAM,OAAyB,CAAA"}

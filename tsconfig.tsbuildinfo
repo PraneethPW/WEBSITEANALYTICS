@@ -1,0 +1,1 @@
+{"root":["./src/db/db.ts","./src/ingestion/index.ts","./src/processor/index.ts","./src/queue/eventqueue.ts","./src/reporting/index.ts","./src/types/event.ts"],"version":"5.9.3"}
